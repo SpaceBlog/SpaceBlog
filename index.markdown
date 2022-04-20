@@ -4,4 +4,4 @@
 
 layout: home
 ---
-Welcome to SpaceBlog. A blog where we discuss the latest research in Physics and Astronomy.
+Welcome to SpaceBlog. A blog where we discuss the latest news and research in Physics and Astronomy.
